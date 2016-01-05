@@ -2,6 +2,7 @@ name: SoundixStudio
 favicon: null
 layout_spectrum: 0.7803062300663441
 typography_spectrum: 0.7140681508462876
+title: Soundix Studio
 cta:
   domain: null
   bucket: null

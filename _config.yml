@@ -1,0 +1,28 @@
+name: SoundixStudio
+favicon: null
+layout_spectrum: 0.7803062300663441
+typography_spectrum: 0.7140681508462876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3373894754331559
+  lightness: 0.2733113570138812
+  saturation: 0.10810566949658096
+  rhythmicContrast: 0.264388769865036
+purpose: []

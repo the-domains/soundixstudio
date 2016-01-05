@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Soundix Studio]]></title>
         <description><![CDATA[Soundix Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soundixstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 20:04:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 20:30:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soundixstudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to Soundix Studio! We create original music for film, video games, and more. </p>]]></description>
-            <link>undefinedce629314-b165-4a92-9131-bbe2bf649b0e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f4e2e55-5001-4838-882a-49c328672e54.png">]]></description>
+            <link>https://thegrid.ai/soundixstudio/ce629314-b165-4a92-9131-bbe2bf649b0e/index.html</link>
             <guid isPermaLink="false">ce629314-b165-4a92-9131-bbe2bf649b0e</guid>
-            <pubDate>Tue, 05 Jan 2016 20:04:31 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 20:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
